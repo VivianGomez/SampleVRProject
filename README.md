@@ -1,2 +1,2 @@
 # SampleVRProject
-Esqueleto de proyecto VR con Unity y Oculus
+This is a scaffold project that provides the foundation for implementing Unity + Oculus VR projects.
